@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World, I'm Navan Chakravarthi 👋</h1>
+<h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
