@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner</b>
+  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner | Machine Learning intrest </b>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm currently a student with a passion for Web Development
-- 🛠️ Learning HTML, CSS, JavaScript, Git, and React
+- 🛠️ Learning HTML, CSS, JavaScript, Git, React and Machine Learning
 - 🌱 Exploring Backend: Node.js & Express.js
 - 📚 Interested in Open Source and Real-World Projects
 - 🎯 Goal: Become a Full-Stack Developer and contribute to impactful tech
@@ -45,7 +45,7 @@
 - 📍 Karnataka, India
 - 📧 Email: chakravarthi1307@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(if available)*
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(Coming soon..)*
 
 ---
 
