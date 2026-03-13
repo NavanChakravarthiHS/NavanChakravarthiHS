@@ -13,11 +13,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently a student with a passion for Web Development
-- 🛠️ Learning HTML, CSS, JavaScript, Git, React and Machine Learning
-- 🌱 Exploring Backend: Node.js & Express.js
-- 📚 Interested in Open Source and Real-World Projects
-- 🎯 Goal: Become a Full-Stack Developer and contribute to impactful tech
+-  I'm currently a student with a passion for Web Development
+-  Learning HTML, CSS, JavaScript, Git, React and Machine Learning
+-  Exploring Backend: Node.js & Express.js
+-  Interested in Open Source and Real-World Projects
+-  Goal: Become a Full-Stack Developer and contribute to impactful tech
 
 ---
 
