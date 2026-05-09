@@ -2,13 +2,8 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://i.pinimg.com/originals/6f/8e/f7/6f8ef7b7a2c4b6d5b9f4d6d0b8d2f2f7.gif" width="650"/>
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-f5c47e6a-0e3f-4c75-9b8b-f4b2f0fcb8b3.gif" width="550"/>
-</p>
-
 
 
 <p align="center">
