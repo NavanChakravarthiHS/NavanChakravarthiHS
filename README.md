@@ -2,8 +2,9 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-5b7c2e16-8f5f-4f72-8b7c-6e4b4f7d5d61.gif" width="600"/>
 </p>
+
 
 <p align="center">
   <b>Full Stack Developer | Tech Enthusiast </b>
