@@ -45,7 +45,13 @@
 - 📍 Karnataka, India
 - 📧 Email: chakravarthi1307@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
-- 🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://my-portfolio-theta-eosin-31.vercel.app/))
+- ## 🌐 Portfolio
+<p align="left">
+  <a href="https://my-portfolio-theta-eosin-31.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
