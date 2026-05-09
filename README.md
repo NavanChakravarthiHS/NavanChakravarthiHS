@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner | Machine Learning intrest </b>
+  <b>Full Stack Developer | Tech Enthusiast </b>
 </p>
 
 ---
