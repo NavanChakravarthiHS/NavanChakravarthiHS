@@ -14,12 +14,8 @@
 ---
 
 ### 🧑‍💻 About Me
+I am a passionate and self-driven Full Stack Developer with a strong interest in modern web technologies and software development. Currently, I am focused on enhancing my skills in Full Stack Development and Machine Learning while building practical and user-focused applications. I enjoy solving real-world problems through clean, efficient, and scalable solutions. With experience in technologies such as React, JavaScript, Java, and MySQL, I am continuously learning and exploring new tools to grow as a developer and contribute to impactful projects.
 
--  I'm currently a student with a passion for Web Development
--  Learning HTML, CSS, JavaScript, Git, React and Machine Learning
--  Exploring Backend: Node.js & Express.js
--  Interested in Open Source and Real-World Projects
--  Goal: Become a Full-Stack Developer and contribute to impactful tech
 
 ---
 
