@@ -2,8 +2,13 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f5c47e6a-0e3f-4c75-9b8b-f4b2f0fcb8b3.gif" width="550"/>
+</p>
+
 
 
 <p align="center">
