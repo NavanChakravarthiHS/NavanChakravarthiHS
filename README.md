@@ -44,8 +44,6 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navanchakravarthihs&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=navanchakravarthihs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 ---
 
 ### 📫 Connect with Me
