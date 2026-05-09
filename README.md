@@ -42,9 +42,9 @@
 
 ### 📫 Connect with Me
 
-- 📍 Karnataka, India
+- 📍 Bangalore, Karnataka, India
 - 📧 Email: chakravarthi1307@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
 * 🌐 Portfolio: https://my-portfolio-theta-eosin-31.vercel.app/
 
 
