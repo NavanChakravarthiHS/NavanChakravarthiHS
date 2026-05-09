@@ -1,129 +1,71 @@
-<div align="center">
 
-# Hey there 👋 I'm Navan Chakravarthi H S
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Passionate+Tech+Explorer" />
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-🎓 Student passionate about technology and development
-💻 Learning Full Stack Web Development
-🌱 Currently exploring **React, Node.js, Express.js & Machine Learning**
-⚡ Love building real-world projects and learning by doing
-🤝 Interested in Open Source Contributions
-🎯 Goal: Become a professional Full Stack Developer
-
-<br>
-
----
-
-# 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=navanchakravarthihs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=navanchakravarthihs&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navanchakravarthihs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-🏅 Solving coding problems regularly
-⭐ Building personal development projects
-🔥 Learning Machine Learning concepts
-🚀 Improving DSA and problem-solving skills
-
----
-
-# 🌟 Current Focus
-
-* ✅ Full Stack Development
-* ✅ React Projects
-* ✅ Backend APIs
-* ✅ Machine Learning Basics
-* ✅ Open Source Learning
-
----
-
-# 📫 Connect With Me
+<h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<a href="https://github.com/navanchakravarthihs">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chakravarthi1307@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <b>Full Stack Developer | Tech Enthusiast | Lifelong Learner | Machine Learning intrest </b>
 </p>
 
 ---
 
-# 💡 Quote of the Day
+### 🧑‍💻 About Me
 
-<div align="center">
-
-### *"First, solve the problem. Then, write the code."*
-
-— John Johnson
-
-</div>
+-  I'm currently a student with a passion for Web Development
+-  Learning HTML, CSS, JavaScript, Git, React and Machine Learning
+-  Exploring Backend: Node.js & Express.js
+-  Interested in Open Source and Real-World Projects
+-  Goal: Become a Full-Stack Developer and contribute to impactful tech
 
 ---
 
-<div align="center">
+### 🧰 Tech Stack
 
-<img src="https://komarev.com/ghpvc/?username=navanchakravarthihs&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navanchakravarthihs&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navanchakravarthihs&theme=tokyonight" width="48%">
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📍 Karnataka, India
+- 📧 Email: chakravarthi1307@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyXhmDquRTGPXQtfEbNa3w%3D%3D) 
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(Coming soon..)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+<!--
+**NavanChakravarthiHS/NavanChakravarthiHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
