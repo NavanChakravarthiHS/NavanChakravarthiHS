@@ -2,8 +2,9 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/8e/f7/6f8ef7b7a2c4b6d5b9f4d6d0b8d2f2f7.gif" width="650"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600"/>
 </p>
+
 
 
 <p align="center">
