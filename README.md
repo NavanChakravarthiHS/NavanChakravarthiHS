@@ -2,7 +2,7 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="500"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600"/>
 </p>
 
 
