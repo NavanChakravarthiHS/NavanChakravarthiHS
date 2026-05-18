@@ -2,9 +2,8 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/L95WmEymr7QAAAAC/matrix-code.gif" width="600"/>
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="500"/>
 </p>
-
 
 
 <p align="center">
