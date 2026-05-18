@@ -2,9 +2,8 @@
 <h1 align="center">Hello World, I'm Navan Chakravarthi H S 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="650"/>
+  <img src="https://media.tenor.com/oqyUP8olluoAAAAC/hello-world.gif" width="650"/>
 </p>
-
 
 <p align="center">
   <b>Full Stack Developer | Tech Enthusiast </b>
